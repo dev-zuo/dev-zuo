@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 my blog -<a href="http://www.zuo11.com">zuo11.com</a>
+- 😄 video - <a href="https://space.bilibili.com/486840111">bilibili</a>
+
+<a href="http://www.zuo11.com">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuoxiaobai&show_icons=true&theme=buefy" /></a>
+
 <!--
 **zuoxiaobai/zuoxiaobai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
