@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![dev-zuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuoxiaobai&count_private=true&show_icons=true&theme=vue)](https://github.com/zuoxiaobai)
+[![dev-zuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuoxiaobai&count_private=true&show_icons=true)](https://github.com/zuoxiaobai)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuoxiaobai&layout=compact)](https://github.com/zuoxiaobai) -->
 
